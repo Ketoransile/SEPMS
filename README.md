@@ -187,8 +187,8 @@ SEPMS/
 │   ├── architecture/
 │   └── workflows/
 ├── wireframes/
-├── backend/        # (Next semester)
-├── frontend/       # (Next semester)
+├── backend/       
+├── frontend/       
 └── README.md
 
 ⚖️ Academic Notice
@@ -199,7 +199,7 @@ This repository is maintained as part of a final year academic project. All impl
 
 Project Team: Final Year Software Engineering Students
 
-Institution: [Your University Name]
+Institution: Adama Science and Technology University
 
 Academic Year: 2025–2026
 
@@ -208,7 +208,3 @@ Academic Year: 2025–2026
 This project is intended for academic use only. Commercial use is not permitted without prior authorization.
 
 
-
-Align it exactly with your Chapter 5 wording
-
-Just say the word.
